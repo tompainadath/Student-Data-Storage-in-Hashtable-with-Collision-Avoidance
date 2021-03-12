@@ -1,7 +1,5 @@
 ################################################################################
 ### Name: Tom Painadath
-### Course: ECE 3822 
-### Project number: 3
 ### Description: This program simulates packets of data arriving at irregular times. The data
 ###              gets read from the file and is placed in a queue where it waits for its turn
 ###              to get processed. The "processing" happens in a threaded subroutine called 
